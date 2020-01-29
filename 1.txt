@@ -23,4 +23,4 @@ settings.py templates
 
 last line testing
 
-master branch
+for submit to test2 branch
